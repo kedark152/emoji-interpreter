@@ -11,7 +11,8 @@ export default function App() {
     "🍕": "Pizza",
     "🍎": "Red Apple",
     "🍅": "Tomato",
-    "🍍": "Pineapple"
+    "🍍": "Pineapple",
+    "🍔": "Hamburger"
   };
 
   var emojisWeKnow = Object.keys(emojiDictionary);
